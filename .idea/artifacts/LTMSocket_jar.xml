@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LTMSocket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LTMSocket_jar</output-path>
+    <root id="archive" name="LTMSocket.jar">
+      <element id="module-output" name="LTMSocket" />
+    </root>
+  </artifact>
+</component>
